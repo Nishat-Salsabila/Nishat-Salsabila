@@ -13,4 +13,31 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💡 I love exploring the intersection of hardware design and programming, and I use GitHub to document my learning journey, personal projects, and research work.
+
+🔹 Interests
+
+VLSI Design & Verification
+
+Digital & Analog Circuit Design
+
+Embedded Systems
+
+Signal Processing
+
+🔹 Currently Learning
+
+Verilog/SystemVerilog
+
+CMOS Circuit Design
+
+Cadence & EDA Tools
+
+Python for Engineering Applications
+
+📫 Let’s Connect:
+LinkedIn | Email
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true)
+
 
